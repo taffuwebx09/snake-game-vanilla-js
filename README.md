@@ -27,7 +27,7 @@ This project includes features like score tracking, timer, and local storage for
 
 ## 📸 Preview
 
-(Add screenshot here later)
+![Snake Game Screenshot](./image.png)
 
 ---
 
